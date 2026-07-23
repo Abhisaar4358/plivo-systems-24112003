@@ -1,0 +1,11 @@
+# Build products and per-run harness output
+sender
+receiver
+sender.exe
+receiver.exe
+playout_log.json
+relay_stats.json
+
+# Python cache
+__pycache__/
+*.pyc
