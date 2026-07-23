@@ -17,3 +17,11 @@ at a time.
 | FEC v2 | B | 2 | 120 ms | 2 data + 1 XOR parity | 0.53% | 1.61x | Valid | Multi-seed validation: valid. |
 | FEC v2 | B | 3 | 120 ms | 2 data + 1 XOR parity | 0.47% | 1.61x | Valid | Multi-seed validation: valid. |
 | FEC v2 | B | 4 | 120 ms | 2 data + 1 XOR parity | 0.20% | 1.61x | Valid | Multi-seed validation: valid. |
+| FEC v2 | B | 1 | 110 ms | 2 data + 1 XOR parity | 0.80% | 1.61x | Valid | First lower-delay validation. |
+| FEC v2 | B | 2 | 110 ms | 2 data + 1 XOR parity | 0.53% | 1.61x | Valid | First lower-delay validation. |
+| FEC v2 | B | 3 | 110 ms | 2 data + 1 XOR parity | 0.47% | 1.61x | Valid | First lower-delay validation. |
+| FEC v2 | B | 4 | 110 ms | 2 data + 1 XOR parity | 0.20% | 1.61x | Valid | First lower-delay validation. |
+| FEC v2 | B | 1 | 100 ms | 2 data + 1 XOR parity | 0.80% | 1.61x | Valid | All tested seeds remain valid. |
+| FEC v2 | B | 2 | 100 ms | 2 data + 1 XOR parity | 0.80% | 1.61x | Valid | All tested seeds remain valid. |
+| FEC v2 | B | 3 | 100 ms | 2 data + 1 XOR parity | 0.53% | 1.61x | Valid | All tested seeds remain valid. |
+| FEC v2 | B | 4 | 100 ms | 2 data + 1 XOR parity | 0.20% | 1.61x | Valid | All tested seeds remain valid. |
