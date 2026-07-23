@@ -25,3 +25,7 @@ at a time.
 | FEC v2 | B | 2 | 100 ms | 2 data + 1 XOR parity | 0.80% | 1.61x | Valid | All tested seeds remain valid. |
 | FEC v2 | B | 3 | 100 ms | 2 data + 1 XOR parity | 0.53% | 1.61x | Valid | All tested seeds remain valid. |
 | FEC v2 | B | 4 | 100 ms | 2 data + 1 XOR parity | 0.20% | 1.61x | Valid | All tested seeds remain valid. |
+| FEC v2 | A | 1 | 100 ms | 2 data + 1 XOR parity | 0.20% | 1.61x | Valid | Profile A multi-seed validation at 100 ms: valid. |
+| FEC v2 | A | 2 | 100 ms | 2 data + 1 XOR parity | 0.00% | 1.61x | Valid | Profile A multi-seed validation at 100 ms: perfect 0% miss rate. |
+| FEC v2 | A | 3 | 100 ms | 2 data + 1 XOR parity | 0.00% | 1.61x | Valid | Profile A multi-seed validation at 100 ms: perfect 0% miss rate. |
+| FEC v2 | A | 4 | 100 ms | 2 data + 1 XOR parity | 0.13% | 1.61x | Valid | Profile A multi-seed validation at 100 ms: valid. |
